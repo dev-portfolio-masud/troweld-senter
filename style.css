@@ -1,0 +1,345 @@
+.bg-image{
+    padding-bottom: 500px;
+    background-image: url(images/slider-bg.jpg);
+}
+.bg-blue{
+    background-color: rgb(35, 92, 248);
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+
+}
+button{
+    height: 48px;
+    width: 170px;
+}
+.flex-box{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.color-orange{
+    color: orange;
+}
+.color-white{
+    color: white;
+}
+.header-menu{
+    align-items: center;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+}
+.header-menu i{
+    border-radius: 30px;
+   
+    padding-right: 10px;
+    font-size: 25px;
+}
+.contact{
+    display: flex;
+}
+.contact i{
+    padding-top: 17px;
+}
+header{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(2, 2, 104);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+header i{
+    border-radius: 40px;
+    padding: 11px;
+    background-color: rgb(86, 86, 252);
+    font-size: 20px;
+    padding-right: 12px;
+}
+.header .social{
+    display: flex;
+padding-left: 22px;}
+.main-menu{
+   
+    width: 70%;
+    margin:35px auto ;
+    display: flex;
+    
+    justify-content: space-around;
+
+}
+.bg-black{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: rgba(32, 31, 31, 0.616);
+}
+.menu-area{
+    display: flex;
+    gap: 50px;
+    justify-content: space-around;
+}
+.menu-area a{
+    color: white;
+    text-decoration: none;
+}
+.search-icon{
+    color: white;
+}
+.button-area{
+    padding-top: 600px;
+    gap: 20px;
+
+} 
+.contain-area{
+    padding-top: 120px;
+    align-items: center;
+    align-content: center;
+}
+.contain-area h1{
+    color: white;
+    margin: 5px;
+  padding: 0;
+    font-size: 2.5em;
+}
+.button-area{
+    padding-top: 20px;
+}
+#but-one{
+    background-color: orange;
+}
+.button-one{
+    background-color: orange;
+}
+.button-one{
+    color: black;
+   background-color: white;
+}
+.button-tow{
+    color: white;
+    background-color: orange;
+}
+.main-area{
+    gap: 40px;
+    padding-top: 50px;
+    align-items: center;
+}
+.main-area .content-area h1{
+    font-size: 2.7em;
+}
+.main-area .image-area img{
+    width: 70%;
+}
+.workportfolio-area h1{
+    font-size: 2.5em;
+}
+.workportfolio-area{
+    padding-top: 65px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.work-menu a{
+    color: white;
+   padding-left: 15px;
+    text-decoration: none;
+    
+}
+.work-image{
+    justify-content: space-around;
+    display: flex;
+}
+.work-image img{
+    padding-top: 35px;
+    width: 32%;
+}
+.Our-Services{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Our-Services h1{
+    font-size: 2em;
+}
+.Services-items{
+    padding-top: 40px;
+    gap: 14px;
+    display: flex;
+    justify-content: space-around;
+}
+.singal-service{
+    box-shadow: 1px 1px 2px;
+    background-color: white;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.last-button{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.last-button button{
+    background-color: orange;
+}
+.getin-touch h1{
+    font-size: 2em;
+}
+.getin-touch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.touch-area{
+    gap: 0;
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+}
+.input-area{
+    display: flex;
+    flex-direction: column;
+}
+.tow-input{
+    gap: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.location img{
+    height: 450px;
+    width: 500;
+    margin: 0;
+    padding-left: 0;
+    width: 550px;
+}
+.location{
+    padding-right: 200px;
+    width: 90%;
+}
+
+.your-Name input{
+    height: 40px;
+    width: 400px;
+}
+.tow-input{
+    padding-top: 20px;
+}
+.tow-input input{
+    height: 40px;
+    width: 250px;
+}
+.email-box{
+    padding-top: 20px;
+}
+.email-box input{
+    height: 40px;
+    width: 400px;  
+}
+.message-box{
+    padding-top: 20px;
+}
+
+.message-box input{
+    height: 80px;
+    width: 400px;  
+}
+.contact-form{
+    background-color: rgb(42, 22, 218);
+    padding: 80px;
+}
+.testimonial h1{
+    padding-top: 40px;
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dot .dot-one{
+    background-color: orange;
+}
+.last-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.person{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    }
+    .person img{
+        border: 8px solid orange;
+        width: 130%;
+    }
+    .person p{
+       font-weight: 400;
+    }
+    .bio{
+        padding-bottom: 40px;
+        padding-left: 50px;
+    }
+    .dot{
+        padding-bottom: 50px;
+    }
+    .troweld{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .troweld h1{
+        font-size: 2em;
+    }
+    .fotter-area{
+        background-color: rgb(44, 39, 39);
+    }
+    .fotter-row{
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+    }
+    .fotter-row div{
+        padding-left: 50px;
+    }
+    .link{
+        display: flex;
+        flex-direction: column;
+    }
+    .link a{
+        text-decoration: none;
+        color: black;
+    }
+    .welding{
+        margin: 0;
+        padding: 0;
+    }
+    .welding{
+        padding-bottom: 20px;
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .social-media{
+        padding-bottom: 58px;
+        justify-content: center;
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+    }
+    .social-media .icons{
+        padding-right: 35px;
+        display: flex;
+    }
+    .social-media .icons i{
+        padding-left: 8px;
+    }
+    .social-media i{
+        color: orange;
+        font-size: 1.7em;
+    }
+   
